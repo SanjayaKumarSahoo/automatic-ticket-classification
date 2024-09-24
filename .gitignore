@@ -164,3 +164,4 @@ cython_debug/
 /complaints-2021-05-14_08_16.json
 /count_vector.pkl
 /tfidf.pkl
+/logreg_model.pkl
