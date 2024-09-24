@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 /.idea/
 /complaints-2021-05-14_08_16.json
+/count_vector.pkl
+/tfidf.pkl
